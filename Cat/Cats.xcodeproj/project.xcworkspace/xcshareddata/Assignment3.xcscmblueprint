@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C44F3E368866FAB1F94314A2C96D08431E2748DA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3FB91B07BF7C43CE5DB04AB0466329A25C9AF69C" : 0,
+    "C44F3E368866FAB1F94314A2C96D08431E2748DA" : 0,
+    "B68F2FB4FA21EA19504DA4E872D55FC1F2FF465E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1B700396-20F2-447C-BB57-368773BBFCC8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3FB91B07BF7C43CE5DB04AB0466329A25C9AF69C" : "..",
+    "C44F3E368866FAB1F94314A2C96D08431E2748DA" : "assignment3\/",
+    "B68F2FB4FA21EA19504DA4E872D55FC1F2FF465E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Assignment3",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Assignment3.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qilio\/Unity2D_Game.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FB91B07BF7C43CE5DB04AB0466329A25C9AF69C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git-cis399:s13\/finalProject",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B68F2FB4FA21EA19504DA4E872D55FC1F2FF465E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git-cis399:solution\/assignment3",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C44F3E368866FAB1F94314A2C96D08431E2748DA"
+    }
+  ]
+}

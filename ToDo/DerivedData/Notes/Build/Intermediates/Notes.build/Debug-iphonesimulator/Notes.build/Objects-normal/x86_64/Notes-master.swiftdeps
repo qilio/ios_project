@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "b5e0f1ce2c32e212ecb7ee1cc86fde2b"
+inputs: 
+- "/Users/tangzekun/Dropbox/CIS/CIS399/SimpleNotes/Notes/Notes/AppDelegate.swift"
+- "/Users/tangzekun/Dropbox/CIS/CIS399/SimpleNotes/Notes/NotesTableViewController.swift"
